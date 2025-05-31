@@ -1,0 +1,2 @@
+# VirusTotalUploader
+Загрузчик для virustotal
