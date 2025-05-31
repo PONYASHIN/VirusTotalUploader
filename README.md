@@ -1,5 +1,4 @@
 <div><p align="center"><img src="https://raw.githubusercontent.com/PONYASHIN/VirusTotalUploader/refs/heads/main/src/icon.ico" width="75" height="75" /></p><h3 align="center">VirusTotal Uploader</h3></div>
-<p align="center">VirusTotal uploader</p>
 Написана программа изначально для другого моего проекта - XPonTweak.
 
 За костыли не бейте, ведь в том и был смысл - написать программу без единой зависимости от внешних модулей.
