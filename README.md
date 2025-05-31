@@ -14,8 +14,11 @@ VTuploader.exe "путь к файлу"
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\exefile\shell\VTUpload]
+
 @="Upload to VirusTotal"
+
 "Icon"="\"C:\\Windows\\VTuploader.exe\""
 
 [HKEY_CLASSES_ROOT\exefile\shell\VTUpload\command]
+
 @="C:\\Windows\\VTuploader.exe \"%1\""
